@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariosch9 Marios Christodoulou
+- 👋 Hi, I’m @mariosch9 Marios Christodoulou. Please take a look below at my coding projects and challenges portfolio.
 - 👀 I’m interested in software solutions involving C#, Java, Python, C++, JavaScript
 - 🌱 I’m currently working on projects and coding challenges focusing on TDD
 - 💞️ I’m looking to collaborate on open source projects
